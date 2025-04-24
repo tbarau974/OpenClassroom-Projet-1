@@ -1,11 +1,7 @@
 Projet n°1 
 ----------
 
-Démarrez votre formation de Business Intelligence Analyst
-
-==========================================================
-
-Objectifs pédagogiques
+<h2>Démarrez votre formation de Business Intelligence Analyst</h2>
 
 ---------------------
 
