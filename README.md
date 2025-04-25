@@ -4,4 +4,3 @@
 - Définir le cadre de votre formation
 - Adopter la posture d’un Business Intelligence Analyst
 
-2
